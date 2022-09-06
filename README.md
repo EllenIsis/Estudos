@@ -1,2 +1,0 @@
-# Estudos
-Meus Estudos 

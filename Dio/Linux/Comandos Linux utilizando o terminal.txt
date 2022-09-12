@@ -72,3 +72,6 @@ Para permitir usar dois comandos e separar suas saidas
 -> &
 Para que dois comando só sejam executados se o primeiro for executado com sucesso
 -> &&
+
+
+site com apostila guiafoca.org

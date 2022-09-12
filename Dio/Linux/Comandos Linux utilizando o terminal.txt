@@ -1,0 +1,74 @@
+Para abrir o terminal 
+-> pesquisar Term aparece o terminal
+Para saida do caminho local que estamos
+->pwd
+Para listar o que tem dentro da pasta
+->ls nomedaPasta 
+Para abrir a Pasta no diretorio
+-> cd nomedaPasta
+Para criar novas pastas atraves do terminal
+->mkdir nomedaPasta
+Para retornar a pasta anterior 
+->cd ..
+Para sair do diretorio pessoal para o diretorio raiz
+->cd /
+Para listar arquivos com detalhes
+->ls -l
+Para saber como funciona os comandos 
+->man comando
+Para saber comandos 
+->ls --help
+Para listar o historico
+->history
+Para renomiar a pasta
+-> mv nomeatual nomenovo
+Para mover a pasta
+->mv nomedapasta diretorio
+Para criar arquivo de txt 
+->touch nome.txt
+Para copiar um arquivo
+->cp nomedoarquivo /home/ellenisis
+Para autocomplentar
+->tab <-->
+Para limpar o terminal  
+->clear
+Para remover diretorios ou /arquivos
+->rm -r ou rmdir nomedapasta / rm nomedoarquivo
+Para sair do terminal 
+->ctrl + D ou exit
+Para editar um documento de texto
+-> nano nomedoarquivo.txt
+Para exibir conteudos de arquivos no terminal
+->cat
+Para exibir a ordem inversaaa dos conteudos no terminal
+->tac
+Para buscar arquivos 
+->find 
+Para exibir o tipo de um arquivo
+->file
+Para exibir as 10 primeiras linhas de um arquivo
+->head
+Para exibir as 10 ultimas linhas de um arquivo
+->tail
+Para exibir a paginacao em um arquivo de texto
+->more ou less
+Para  busca palavras em arquivos de texto
+->greg
+Para exibir calendario 
+->cal
+Para exibir a data atual 
+-> date
+Para exibir uma explicacao sobre um comando
+-> whatis
+Para enviar a saida de um comando para entrada de outro
+-> |
+Para redirecionar a saida de um comando para outro comando ou arquivo
+-> >
+Para redirecionar a saida e adiciona a mesma para um comando ou arquivo
+-> >>
+Para direcionar a entrada de um arquivo para a saida de um comando
+-> <
+Para permitir usar dois comandos e separar suas saidas 
+-> &
+Para que dois comando só sejam executados se o primeiro for executado com sucesso
+-> &&
